@@ -1,0 +1,24 @@
+Added Component: Designator=L1(IHLP-3232DZ-51)
+Add component (AddParameter): Name = "case"; Value = "3232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/IHLP3232DZER2R2M5A/4070222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Dale/IHLP3232DZER2R2M5A?qs=tDDpbAIEejr3%252BeiaEh99%252Bg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "541-IHLP3232DZER2R2M5ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "inductance"; Value = "2.2uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "70-IHLP3232DZR2R2M5A"; VariantName = "[No Variations]"
+Added Component: Designator=L2(IHLP-3232DZ-51)
+Add component (AddParameter): Name = "case"; Value = "3232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-dale/IHLP3232DZER2R2M5A/4070222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Dale/IHLP3232DZER2R2M5A?qs=tDDpbAIEejr3%252BeiaEh99%252Bg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "541-IHLP3232DZER2R2M5ACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "inductance"; Value = "2.2uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "70-IHLP3232DZR2R2M5A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_2 Pin=L1-1
+Added Pin To Net: NetName=NetC1_2 Pin=L1-2
+Added Pin To Net: NetName=NetC15_1 Pin=L2-1
+Added Pin To Net: NetName=R_SENSE_P Pin=L2-2
+Added Member To Class: ClassName=LM2548_eval_BRD Member=Component L1 2.2uH
+Added Member To Class: ClassName=LM2548_eval_BRD Member=Component L2 2.2uH

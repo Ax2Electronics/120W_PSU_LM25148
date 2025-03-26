@@ -1,0 +1,175 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=VIN Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=VIN Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=SW_NODE Pin=L2-1
+Removed Pin From Net: NetName=R_SENSE_P Pin=L2-2
+Removed Pin From Net: NetName=VDDA Pin=R2-1
+Removed Pin From Net: NetName=NetIC1_6 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=NetIC1_4 Pin=R12-2
+Removed Pin From Net: NetName=NetQ1_G Pin=TP8-1
+Removed Member From Class: ClassName=LM2548_eval_BRD Member=TP8
+Removed Member From Class: ClassName=LM2548_eval_BRD Member=TP15
+Added Component: Designator=C1(CAPAE109103X103M)
+Add component (AddParameter): Name = "capaticanse"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/A785MN227M1VLAS023/22003773?s=N4IgTCBcDaIIIHYAcBWAsgOTGBaCMAagDJwDKADGAMwgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey part number"; Value = "399-A785MN227M1VLAS023CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_1206)
+Add component (AddParameter): Name = "capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B106KBHNNNE/5961251"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "1276-6767-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_1206)
+Add component (AddParameter): Name = "capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B106KBHNNNE/5961251"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "1276-6767-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAP_0603)
+Add component (AddParameter): Name = "capaticanse"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM188C71C225KE11D/4905311"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "490-12731-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=CHF(CAP_0603)
+Add component (AddParameter): Name = "capacitance"; Value = "22pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0603C220K3RACAUTO/16524857"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "399-C0603C220K3RACAUTOCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L2(INDP135126X65N)
+Add component (AddParameter): Name = "case"; Value = "13.5x12.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/pulse-electronics/PA4343-103ANLT/7943151?s=N4IgTCBcDaIAoEEAsBmVA6AjABhQgcgDIAqIAugL5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Pulse-Electronics/PA4343.103ANLT?qs=chTDxNqvsym%252BWuIQdh7qfw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "553-4029-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "inductance"; Value = "10uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "673-PA4343.103ANLT"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(PG-TDSON-8-33)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/infineon-technologies/IAUC80N04S6L032ATMA1/13677609"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Infineon-Technologies/IAUC80N04S6L032ATMA1?qs=BJlw7L4Cy7%2F3D%2F1wP9Fszw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Footprint Drawing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-33/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "448-IAUC80N04S6L032ATMA1CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IAUC80N04S6L032A"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(PG-TDSON-8-33)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/infineon-technologies/IAUC80N04S6L032ATMA1/13677609"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Infineon-Technologies/IAUC80N04S6L032ATMA1?qs=BJlw7L4Cy7%2F3D%2F1wP9Fszw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Footprint Drawing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-33/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "448-IAUC80N04S6L032ATMA1CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IAUC80N04S6L032A"; VariantName = "[No Variations]"
+Added Component: Designator=Q_RP(PowerPAK SO-8L SINGLE)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-siliconix/SQJ459EP-T1-GE3/6708881"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Vishay-Siliconix/SQJ459EP-T2_BE3?qs=CiayqK2gdcKpg8h0vLRPjA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "SQJ459EP-T1_GE3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "78-SQJ459EP-T2_BE3"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0749K9L/727265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "311-49.9KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "49.9kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RT0603BRD0749K3L/5927964"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "13-RT0603BRD0749K3LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "43.3kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES_1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CSR1206FKR200/1742391?s=N4IgTCBcDaIMIGUBKBGMAGAbAMQNJI3RAF0BfIA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "CSR1206FKR200CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "0.2Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R_RP(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0747KL/727253"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "311-47.0KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "47kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=SD1(SODFL371X135-2N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/onsemi/BAT54T1G/918319"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "BAT54T1GOSCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=ZD_RP(SOT95P245X96-3N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/vishay-general-semiconductor-diodes-division/DZ23C15-E3-08/4831460"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "112-DZ23C15-E3-08CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VIN Pin=C14-2
+Added Pin To Net: NetName=5V_EXT Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=GND Pin=CHF-1
+Added Pin To Net: NetName=NetIC1_5 Pin=CHF-2
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=SW_NODE Pin=L2-1
+Added Pin To Net: NetName=R_SENSE_P Pin=L2-2
+Added Pin To Net: NetName=VIN Pin=Q1-D
+Added Pin To Net: NetName=VIN Pin=Q1-D
+Added Pin To Net: NetName=VIN Pin=Q1-D
+Added Pin To Net: NetName=VIN Pin=Q1-D
+Added Pin To Net: NetName=VIN Pin=Q1-D
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=SW_NODE Pin=Q1-S
+Added Pin To Net: NetName=SW_NODE Pin=Q1-S
+Added Pin To Net: NetName=SW_NODE Pin=Q1-S
+Added Pin To Net: NetName=SW_NODE Pin=Q1-S
+Added Pin To Net: NetName=SW_NODE Pin=Q2-D
+Added Pin To Net: NetName=SW_NODE Pin=Q2-D
+Added Pin To Net: NetName=SW_NODE Pin=Q2-D
+Added Pin To Net: NetName=SW_NODE Pin=Q2-D
+Added Pin To Net: NetName=SW_NODE Pin=Q2-D
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=VDDA Pin=R2-1
+Added Pin To Net: NetName=NetIC1_6 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=NetIC1_4 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R_RP-1
+Added Pin To Net: NetName=VCC Pin=SD1-1
+Added Pin To Net: NetName=NetC15_2 Pin=SD1-2
+Change Net Name : Old Net Name=EN New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetIC1_5 New Net Name=NetCHF_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R15-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=L1-1
+Added Pin To Net: NetName=NetC9_2 Pin=Q_RP-S
+Added Pin To Net: NetName=NetC9_2 Pin=Q_RP-S
+Added Pin To Net: NetName=NetC9_2 Pin=Q_RP-S
+Added Pin To Net: NetName=NetC9_2 Pin=TP1-1
+Added Pin To Net: NetName=NetC9_2 Pin=ZD_RP-3
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=Q_RP-D
+Added Pin To Net: NetName=NetP1_2 Pin=Q_RP-D
+Added Pin To Net: NetName=NetP1_2 Pin=Q_RP-D
+Added Pin To Net: NetName=NetP1_2 Pin=Q_RP-D
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetQ2_G Pin=Q2-G
+Added Pin To Net: NetName=NetQ2_G Pin=R7-2
+Added Net: Name=NetQ2_G
+Added Pin To Net: NetName=NetQ_RP_G Pin=Q_RP-G
+Added Pin To Net: NetName=NetQ_RP_G Pin=R_RP-2
+Added Pin To Net: NetName=NetQ_RP_G Pin=ZD_RP-1
+Added Net: Name=NetQ_RP_G
+Change Class Name : Old Net Name=LM2548_eval_BRD New Net Name=LM25148_eval_BRD
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component C33 2.2uF
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component CHF 22pF
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component Q1 IAUC80N04S6L032ATMA1
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component Q2 IAUC80N04S6L032ATMA1
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component Q_RP SQJ659EP PMOS
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component R15 0.2Ohm
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component R_RP 47kOhm
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component SD1 BAT54T1G Schottky
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component ZD_RP DZ23C15-E3-08 Zener Diode

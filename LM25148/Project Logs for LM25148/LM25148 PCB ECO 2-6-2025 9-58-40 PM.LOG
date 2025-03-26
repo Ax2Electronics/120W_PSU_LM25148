@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=GND Pin=IC1-10
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=GND Pin=Q4-S
+Change Net Name : Old Net Name=NetC1_2 New Net Name=VIN
+Change Net Name : Old Net Name=NetC15_1 New Net Name=SW_NODE

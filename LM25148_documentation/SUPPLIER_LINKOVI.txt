@@ -1,0 +1,5 @@
+DigiKey:
+https://www.digikey.com/en/products/detail/texas-instruments/LM25148RGYR/15857124
+
+Mouser:
+https://eu.mouser.com/ProductDetail/Texas-Instruments/LM25148QRGYRQ1?qs=Jm2GQyTW%2FbhVkeoBttDkQw%3D%3D

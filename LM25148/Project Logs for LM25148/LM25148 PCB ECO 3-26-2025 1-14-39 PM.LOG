@@ -1,0 +1,6 @@
+Added Component: Designator=J1(HEADER_4PIN)
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=5V_EXT Pin=J1-2
+Added Pin To Net: NetName=PGOOD Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component J1 Header 4 PIN
