@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [LM25148.PrjPcb]
+   Generated File[LM25148_Copper_Signal_Top.gbr]
+   Generated File[LM25148_Copper_Signal_1.gbr]
+   Generated File[LM25148_Copper_Signal_2.gbr]
+   Generated File[LM25148_Copper_Signal_Bot.gbr]
+   Generated File[LM25148_Legend_Top.gbr]
+   Generated File[LM25148_Legend_Bot.gbr]
+   Generated File[LM25148_Soldermask_Top.gbr]
+   Generated File[LM25148_Soldermask_Bot.gbr]
+   Generated File[LM25148_Paste_Top.gbr]
+   Generated File[LM25148_Paste_Bot.gbr]
+   Generated File[LM25148_Keep-out.gbr]
+   Generated File[LM25148_Profile.gbr]
+   Generated File[LM25148_NPTH_Drill.gbr]
+   Generated File[LM25148_PTH_Drill.gbr]
+   Generated File[LM25148_Drawing_1.gbr]
+   Generated File[LM25148_Drillmap_1.gbr]
+   Generated File[LM25148.EXTREP]
+   Generated File[LM25148.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 3:24:37 PM On 3/26/2025
