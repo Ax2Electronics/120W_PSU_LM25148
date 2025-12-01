@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- (C) Copyright IBM Corp. 2004. All Rights Reserved. -->
+<!-- Ansys EMI Scanner 2023 R1 -->
+<emsatAnalysis designName="C:/Users/User/Desktop/PROJEKTI/120W_DC_SUPPLY/120W_PSU_LM25148/LM25148/Project Outputs for LM25148/PCB2.siwaveresults/0000_EMI_Scan_Sim_1/0000_EMI_Scan_Sim_1.aedb" outputFile="C:/Users/User/Desktop/PROJEKTI/120W_DC_SUPPLY/120W_PSU_LM25148/LM25148/Project Outputs for LM25148/PCB2.siwaveresults/0000_EMI_Scan_Sim_1/\vio\VioOut.txt" unit="mm">
+<ruletype name="Signal Reference">
+<rule name="Critical Net Crossing Split Reference Plane">
+</rule>
+<rule name="Critical Net Changing Reference Plane - Part A">
+</rule>
+<rule name="Critical Net Changing Reference Plane - Part B">
+</rule>
+<rule name="Critical Net Changing Reference Plane - Part C">
+</rule>
+<rule name="Critical Net Near Edge of Reference Plane">
+</rule>
+</ruletype>
+<ruletype name="Wiring/Crosstalk">
+<rule name="Critical Net Near I/O Net">
+</rule>
+<rule name="Length of Exposed Critical Traces">
+</rule>
+<rule name="Critical Net Isolation (Single-Ended Nets)">
+</rule>
+<rule name="Critical Net Isolation (Differential Nets)">
+</rule>
+<rule name="Critical Differential Net Length Matching and Spacing">
+</rule>
+<rule name="Wide Power/Ground Traces">
+<vio rule="WidePowerGroundTraces" index="0" rank="-1.000" longname="Wide Power/Ground Traces">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="0" />
+<param name="Power/Ground Trace" value="GND" type="NET" />
+<param name="Violating Segment" value=" [( 55.1219, 14.4526 )   ( 55.1219, 13.843 )]" type="LINE" x1="55.1219" y1="14.4526" x2="55.1219" y2="13.843" width="0.2032" />
+<param name="Segment Layer" value="top_layer" type="LAYER" />
+<param name="Segment Width" value="0.2032" type="LENGTH" />
+</info>
+<algodata>
+</algodata>
+</vio>
+<vio rule="WidePowerGroundTraces" index="1" rank="-1.000" longname="Wide Power/Ground Traces">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="1" />
+<param name="Power/Ground Trace" value="GND" type="NET" />
+<param name="Violating Segment" value=" [( 55.1219, 13.843 )   ( 55.372, 12.7 )]" type="LINE" x1="55.1219" y1="13.843" x2="55.372" y2="12.7" width="0.2032" />
+<param name="Segment Layer" value="top_layer" type="LAYER" />
+<param name="Segment Width" value="0.2032" type="LENGTH" />
+</info>
+<algodata>
+</algodata>
+</vio>
+<vio rule="WidePowerGroundTraces" index="2" rank="-1.000" longname="Wide Power/Ground Traces">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="2" />
+<param name="Power/Ground Trace" value="GND" type="NET" />
+<param name="Violating Segment" value=" [( 53.6216, 14.4526 )   ( 53.6216, 13.8049 )]" type="LINE" x1="53.6216" y1="14.4526" x2="53.6216" y2="13.8049" width="0.2032" />
+<param name="Segment Layer" value="top_layer" type="LAYER" />
+<param name="Segment Width" value="0.2032" type="LENGTH" />
+</info>
+<algodata>
+</algodata>
+</vio>
+<vio rule="WidePowerGroundTraces" index="3" rank="-1.000" longname="Wide Power/Ground Traces">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="3" />
+<param name="Power/Ground Trace" value="GND" type="NET" />
+<param name="Violating Segment" value=" [( 53.6216, 13.8049 )   ( 55.372, 12.7 )]" type="LINE" x1="53.6216" y1="13.8049" x2="55.372" y2="12.7" width="0.2032" />
+<param name="Segment Layer" value="top_layer" type="LAYER" />
+<param name="Segment Width" value="0.2032" type="LENGTH" />
+</info>
+<algodata>
+</algodata>
+</vio>
+<vio rule="WidePowerGroundTraces" index="4" rank="-1.000" longname="Wide Power/Ground Traces">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="4" />
+<param name="Power/Ground Trace" value="GND" type="NET" />
+<param name="Violating Segment" value=" [( 55.1044, 10.9299 )   ( 55.1219, 10.9474 )]" type="LINE" x1="55.1044" y1="10.9299" x2="55.1219" y2="10.9474" width="0.2032" />
+<param name="Segment Layer" value="top_layer" type="LAYER" />
+<param name="Segment Width" value="0.2032" type="LENGTH" />
+</info>
+<algodata>
+</algodata>
+</vio>
+<vio rule="WidePowerGroundTraces" index="5" rank="-1.000" longname="Wide Power/Ground Traces">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="5" />
+<param name="Power/Ground Trace" value="GND" type="NET" />
+<param name="Violating Segment" value=" [( 55.1219, 10.9474 )   ( 55.1219, 11.557 )]" type="LINE" x1="55.1219" y1="10.9474" x2="55.1219" y2="11.557" width="0.2032" />
+<param name="Segment Layer" value="top_layer" type="LAYER" />
+<param name="Segment Width" value="0.2032" type="LENGTH" />
+</info>
+<algodata>
+</algodata>
+</vio>
+<vio rule="WidePowerGroundTraces" index="6" rank="-1.000" longname="Wide Power/Ground Traces">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="6" />
+<param name="Power/Ground Trace" value="GND" type="NET" />
+<param name="Violating Segment" value=" [( 55.1219, 11.557 )   ( 55.372, 12.7 )]" type="LINE" x1="55.1219" y1="11.557" x2="55.372" y2="12.7" width="0.2032" />
+<param name="Segment Layer" value="top_layer" type="LAYER" />
+<param name="Segment Width" value="0.2032" type="LENGTH" />
+</info>
+<algodata>
+</algodata>
+</vio>
+<vio rule="WidePowerGroundTraces" index="7" rank="-1.000" longname="Wide Power/Ground Traces">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="7" />
+<param name="Power/Ground Trace" value="R_SENSE_N" type="NET" />
+<param name="Violating Segment" value=" [( 56.6785, 5.83086 )   ( 56.6166, 5.8928 )]" type="LINE" x1="56.6785" y1="5.83086" x2="56.6166" y2="5.8928" width="0.2032" />
+<param name="Segment Layer" value="top_layer" type="LAYER" />
+<param name="Segment Width" value="0.2032" type="LENGTH" />
+</info>
+<algodata>
+</algodata>
+</vio>
+<vio rule="WidePowerGroundTraces" index="8" rank="-1.000" longname="Wide Power/Ground Traces">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="8" />
+<param name="Power/Ground Trace" value="R_SENSE_N" type="NET" />
+<param name="Violating Segment" value=" [( 56.6166, 5.8928 )   ( 56.6166, 6.51297 )]" type="LINE" x1="56.6166" y1="5.8928" x2="56.6166" y2="6.51297" width="0.2032" />
+<param name="Segment Layer" value="top_layer" type="LAYER" />
+<param name="Segment Width" value="0.2032" type="LENGTH" />
+</info>
+<algodata>
+</algodata>
+</vio>
+<vio rule="WidePowerGroundTraces" index="9" rank="-1.000" longname="Wide Power/Ground Traces">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="9" />
+<param name="Power/Ground Trace" value="R_SENSE_N" type="NET" />
+<param name="Violating Segment" value=" [( 56.6166, 6.51297 )   ( 56.7356, 6.632 )]" type="LINE" x1="56.6166" y1="6.51297" x2="56.7356" y2="6.632" width="0.2032" />
+<param name="Segment Layer" value="top_layer" type="LAYER" />
+<param name="Segment Width" value="0.2032" type="LENGTH" />
+</info>
+<algodata>
+</algodata>
+</vio>
+<vio rule="WidePowerGroundTraces" index="10" rank="-1.000" longname="Wide Power/Ground Traces">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="10" />
+<param name="Power/Ground Trace" value="SW_NODE" type="NET" />
+<param name="Violating Segment" value=" [( 53.1214, 10.9474 )   ( 52.8574, 10.922 )]" type="LINE" x1="53.1214" y1="10.9474" x2="52.8574" y2="10.922" width="0.254" />
+<param name="Segment Layer" value="top_layer" type="LAYER" />
+<param name="Segment Width" value="0.254" type="LENGTH" />
+</info>
+<algodata>
+</algodata>
+</vio>
+</rule>
+</ruletype>
+<ruletype name="Decoupling">
+<rule name="Decoupling Capacitor Density">
+</rule>
+<rule name="Decoupling Capacitor Distance from IC Power Pin">
+</rule>
+<rule name="IC Power/Ground-Reference Pin Distance to Via">
+<vio rule="ICPowerGroundPin-ViaDistance" index="0" rank="0.900" longname="IC Power/Ground-Reference Pin Distance to Via">
+<info>
+<param name="Rank" value="0.900" />
+<param name="Index" value="0" />
+<param name="IC Pin" value="IC1.14" type="PIN" />
+<param name="Net Name" value="SW_NODE" type="NET" />
+<param name="Layer Name" value="top_layer" type="LAYER" />
+<param name="Associated Via" value="" />
+<param name="Distance" value="" />
+<param name="Message" value="No Via(s) Found in Search Box" />
+</info>
+<algodata>
+<param name="IC Trace Width" value="0.254" />
+<param name="IC Power Ground Pin Distance Limit" value="1.27" />
+<comp type="IC" name="IC1" esl="0.00e+00" value="-1" />
+<param name="Message" value="No Via(s) Found in Search Box" />
+</algodata>
+</vio>
+<vio rule="ICPowerGroundPin-ViaDistance" index="1" rank="0.900" longname="IC Power/Ground-Reference Pin Distance to Via">
+<info>
+<param name="Rank" value="0.900" />
+<param name="Index" value="1" />
+<param name="IC Pin" value="IC1.18" type="PIN" />
+<param name="Net Name" value="GND" type="NET" />
+<param name="Layer Name" value="top_layer" type="LAYER" />
+<param name="Associated Via" value="" />
+<param name="Distance" value="" />
+<param name="Message" value="No Via(s) Found in Search Box" />
+</info>
+<algodata>
+<param name="IC Distance to Plane" value="0.07112" />
+<param name="IC Trace Width" value="0.2032" />
+<param name="IC Power Ground Pin Distance Limit" value="1.27" />
+<comp type="IC" name="IC1" esl="0.00e+00" value="-1" />
+<param name="Message" value="No Via(s) Found in Search Box" />
+</algodata>
+</vio>
+</rule>
+<rule name="Decoupling Capacitor Distance to Via">
+<vio rule="DecouplingCapDistanceToVia" index="0" rank="0.900" longname="Decoupling Capacitor Distance to Via">
+<info>
+<param name="Rank" value="0.900" />
+<param name="Index" value="0" />
+<param name="Capacitor" value="C15" type="COMPONENT" />
+<param name="Cap Pin" value="C15.1" type="PIN" />
+<param name="Associated Via" value="No Via" />
+<param name="Net" value="SW_NODE" type="NET" />
+<param name="Distance" value="No Distance" />
+<param name="Message" value="No Via Within Limit" />
+<param name="Box" type="BOX" x1="46.236" y1="7.437" x2="49.776" y2="10.927" />
+</info>
+<algodata>
+<param name="Capacitor Length" value="1.6" />
+<param name="Capacitor Trace Width" value="0.381" />
+<param name="Distance Limit" value="1.27" />
+<comp type="CAPACITOR" name="C15" esl="0.00e+00" value="1e-09" />
+<param name="message" value="No Via(s) Found in Search Box" />
+</algodata>
+</vio>
+</rule>
+<rule name="Power/Ground-Reference Trace Decoupling">
+</rule>
+<rule name="Power Via Density">
+<vio rule="Power Via Density" index="0" rank="-1.000" longname="Power Via Density">
+<info>
+<param name="Rank" value="-1.000" />
+<param name="Index" value="0" />
+<param name="Net" value="VIN" />
+<param name="Layer1" value="top_layer" type="LAYER" />
+<param name="Layer2" value="bottom_layer" type="LAYER" />
+<param name="Number of Vias" value="0" />
+<param name="Grid Location" type="BOX" x1="73.1415" y1="-3.04713" x2="98.5415" y2="22.3529" />
+</info>
+<algodata>
+</algodata>
+</vio>
+</rule>
+<rule name="Disparate Reference Overlap">
+</rule>
+</ruletype>
+<ruletype name="Placement">
+<rule name="I/O Filter Distance to I/O Connector">
+</rule>
+<rule name="Distance from Oscillator to Clock Driver">
+</rule>
+</ruletype>
+</emsatAnalysis>

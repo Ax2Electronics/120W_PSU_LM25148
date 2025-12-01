@@ -1,0 +1,21 @@
+# Validation Check Errors/Warnings
+# BEGIN LIST
+
+Misalignment Warning
+ The centerlines of two traces on layer top_layer are not connected (54.740937, 15.358930) mm net "VDDA"
+Misalignment Warning
+ The centerlines of two traces on layer top_layer are not connected (54.549089, 15.339910) mm net "VDDA"
+Misalignment Warning
+ The centerlines of two traces on layer top_layer are not connected (54.537737, 15.352303) mm net "VDDA"
+Misalignment Warning
+ The centerlines of two traces on layer top_layer are not connected (54.549138, 15.339816) mm net "VDDA"
+Misalignment Warning
+ The centerline of a trace (56.426001, 18.834001) mm on layer top_layer is not connected to the center of a via (56.642000, 18.834001) mm
+Misalignment Warning
+ The centerlines of two traces on layer top_layer are not connected (53.479062, 9.178381) mm net "VCCX"
+Misalignment Warning
+ The centerlines of two traces on layer top_layer are not connected (53.343309, 9.162715) mm net "VCCX"
+Misalignment Warning
+ The centerline of a trace (56.097460, 5.830860) mm on layer top_layer is not connected to the center of a via (56.019700, 5.511800) mm
+
+# END LIST

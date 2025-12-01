@@ -1,0 +1,206 @@
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=EN_ Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=CHF-1
+Removed Pin From Net: NetName=COMP Pin=CHF-2
+Removed Pin From Net: NetName=HO Pin=R1-1
+Removed Pin From Net: NetName=LO Pin=R7-1
+Removed Pin From Net: NetName=COMP Pin=TP12-1
+Removed Pin From Net: NetName=NetC30_2 Pin=TP14-1
+Removed Member From Class: ClassName=LM25148_eval_BRD Member=CHF
+Removed Member From Class: ClassName=LM25148_eval_BRD Member=R1
+Removed Member From Class: ClassName=LM25148_eval_BRD Member=R7
+Removed Member From Class: ClassName=LM25148_eval_BRD Member=TP5
+Removed Member From Class: ClassName=LM25148_eval_BRD Member=TP12
+Removed Member From Class: ClassName=LM25148_eval_BRD Member=TP14
+Removed Member From Class: ClassName=LM25148_eval_BRD Member=TP18
+Change Component Footprint: Designator=C16 Old Footprint=CAP_0603 New Footprint=CAP_1206
+Change Component Comment : Designator=C16 Old Comment=10nf New Comment=10uF
+Change Component Comment : Designator=R12 Old Comment=43.3kOhm New Comment=49.3kOhm
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP_0603"; UniqueID = "\OEWXKUJT" ("\OEWXKUJT")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM188C71C225KE11D/4905311"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "490-12731-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAP_0603"; UniqueID = "\ZUPDBFJE" ("\ZUPDBFJE")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B106KBHNNNE/5961251"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "1276-6767-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAP_0603"; UniqueID = "\XMNFOLZB" ("\XMNFOLZB")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kyocera-avx/06033C104K4T2A/8019250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "478-KAM15AR71E104KTCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAP_0603"; UniqueID = "\MIUBWSNE" ("\MIUBWSNE")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kyocera-avx/06033C104K4T2A/8019250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "478-KAM15AR71E104KTCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAP_1210"; UniqueID = "\NYBFCEGU" ("\NYBFCEGU")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B226KAJNNNE/3889050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "1276-3392-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "CAP_1210"; UniqueID = "\LRBHUFGU" ("\LRBHUFGU")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B226KAJNNNE/3889050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "1276-3392-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAP_1210"; UniqueID = "\VKJULFIJ" ("\VKJULFIJ")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B226KAJNNNE/3889050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "1276-3392-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAP_1210"; UniqueID = "\ZXPJMAHG" ("\ZXPJMAHG")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B226KAJNNNE/3889050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "1276-3392-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CAP_1210"; UniqueID = "\TYADYXCH" ("\TYADYXCH")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B226KAJNNNE/3889050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "1276-3392-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "CAP_1210"; UniqueID = "\PHUSDYVJ" ("\PHUSDYVJ")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B226KAJNNNE/3889050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "1276-3392-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "CAP_1210"; UniqueID = "\IPVBLJQU" ("\IPVBLJQU")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B226KAJNNNE/3889050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "1276-3392-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "CAP_1210"; UniqueID = "\YINAAZWF" ("\YINAAZWF")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B226KAJNNNE/3889050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "1276-3392-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAP_1210"; UniqueID = "\EJJIBFRF" ("\EJJIBFRF")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B226KAJNNNE/3889050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "1276-3392-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAP_1210"; UniqueID = "\OZFJQABX" ("\OZFJQABX")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL32B226KAJNNNE/3889050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "1276-3392-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "CAP_0603"; UniqueID = "\HDHJBIQR" ("\HDHJBIQR")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kyocera-avx/06033C104K4T2A/8019250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "478-KAM15AR71E104KTCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "CAP_0603"; UniqueID = "\CDLTGZJE" ("\CDLTGZJE")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "1.8nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/C0603C182K3RAC7867/2200107"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "399-15370-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "CAP_0402"; UniqueID = "\TTKYPZHU" ("\TTKYPZHU")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "6pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/CBR04C609D3GAC/18137865?s=N4IgjCBcpgLFoDGUBmBDANgZwKYBoQB7KAbXAFYBOAJlgHYQBdAgBwBcoQBlNgJwEsAdgHMQAXwJgAbAhDJI6bPiKkQAZkphyADiasOkbnyGiJIagAZYlWfMW4CxSGSkACFgDE9IdpwCqgvxsAPIoALI4aFgArrw44gQAtNS2UHzRyk5k5ExieUA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "399-CBR04C609D3GACCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "CAP_0603"; UniqueID = "\QDVVXKHI" ("\QDVVXKHI")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kyocera-avx/06033C104K4T2A/8019250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "478-KAM15AR71E104KTCT-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "CAP_0603"; UniqueID = "\LMEKXQSN" ("\LMEKXQSN")
+Change component parameters (AddParameter): Name = "capacitance"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/murata-electronics/GRM188C71C225KE11D/4905311"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "490-12731-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES_0603"; UniqueID = "\JEBTNNNX" ("\JEBTNNNX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FG100K/1713543"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "RMCF0603FG100KCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "resistance"; Value = "100kOhm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RES_0603"; UniqueID = "\NZHCHVVA" ("\NZHCHVVA")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RT0603BRD0749K3L/5927964"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey Part Number"; Value = "13-RT0603BRD0749K3LCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "resistance"; Value = "49.3kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPAE109103X103M)
+Add component (AddParameter): Name = "capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/kemet/A785MN227M1VLAS023/22003773?s=N4IgTCBcDaIIIHYAcBWAsgOTGBaCMAagDJwDKADGAMwgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "399-A785MN227M1VLAS023CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAP_1206)
+Add component (AddParameter): Name = "capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B106KBHNNNE/5961251"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "1276-6767-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP_1206)
+Add component (AddParameter): Name = "capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B106KBHNNNE/5961251"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "1276-6767-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAP_1206)
+Add component (AddParameter): Name = "capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B106KBHNNNE/5961251"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "1276-6767-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=CN1(CONN2_2601-1102_WAG)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/wago-corporation/2601-1102/17122694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "2946-2601-1102-ND"; VariantName = "[No Variations]"
+Added Component: Designator=CN2(CONN2_2601-1102_WAG)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/wago-corporation/2601-1102/17122694"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "2946-2601-1102-ND"; VariantName = "[No Variations]"
+Added Component: Designator=RUV1(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0603FR-07200KL/727044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "311-200KHRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "200kOhm"; VariantName = "[No Variations]"
+Added Component: Designator=RUV2(RES_0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT14K3/1761296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "RMCF0603FT14K3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "14.3kOhm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=VIN Pin=C1-2
+Added Pin To Net: NetName=VIN Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=VIN Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=VIN Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=VIN Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=GND Pin=CN1-3
+Added Pin To Net: NetName=GND Pin=CN1-4
+Added Pin To Net: NetName=R_SENSE_N Pin=CN2-1
+Added Pin To Net: NetName=R_SENSE_N Pin=CN2-2
+Added Pin To Net: NetName=GND Pin=CN2-3
+Added Pin To Net: NetName=GND Pin=CN2-4
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Pin To Net: NetName=HO Pin=Q1-G
+Added Pin To Net: NetName=LO Pin=Q2-G
+Added Pin To Net: NetName=EN_ Pin=RUV1-1
+Added Pin To Net: NetName=VIN Pin=RUV1-2
+Added Pin To Net: NetName=GND Pin=RUV2-1
+Added Pin To Net: NetName=EN_ Pin=RUV2-2
+Change Net Name : Old Net Name=5V_EXT New Net Name=VCCX
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-2
+Added Pin To Net: NetName=NetCN1_1 Pin=Q_RP-D
+Added Pin To Net: NetName=NetCN1_1 Pin=Q_RP-D
+Added Pin To Net: NetName=NetCN1_1 Pin=Q_RP-D
+Added Pin To Net: NetName=NetCN1_1 Pin=Q_RP-D
+Added Net: Name=NetCN1_1
+Added Pin To Net: NetName=NetIC1_17 Pin=IC1-17
+Added Pin To Net: NetName=NetIC1_17 Pin=R9-1
+Added Net: Name=NetIC1_17
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component C1 220uF
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component C34 10uF
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component C35 10uF
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component C36 10uF
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component CN1 TERM BLK PCB LEVER 3.5MM 2POS
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component CN2 TERM BLK PCB LEVER 3.5MM 2POS
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component RUV1 200kOhm
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component RUV2 14.3kOhm
+Added Rule: Name=Schematic Clearance Constraint
+Added Rule: Name=Schematic Clearance Constraint_1
+Added Rule: Name=Schematic Clearance Constraint_2

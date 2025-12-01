@@ -1,0 +1,218 @@
+*************************************************************
+FileName = LM25148.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\profile
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\dielectric_3\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\dielectric_3\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\drill_non-plated_bottom-top\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\drill_plated_bottom-top\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\drill_plated_bottom-top\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\layer_1\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\layer_1\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\drill_guide_top-bottom\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\drill_guide_top-bottom\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\layer_2\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\layer_2\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\drill_drawing_top-bottom\attrlist
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\matrix\matrix
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape8C0A1C40\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape91B3532A\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeFED82CF9\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape0E3090AF\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape98C5F524\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape81AF6F81\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape4FFC4D03\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape7A6F35AF\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape24B8E4D7\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeED3DFE2D\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeC086A662\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeCEA34E7D\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape2315D1FE\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape0D32BD52\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape8C0A1C40\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape91B3532A\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeFED82CF9\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape0E3090AF\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape98C5F524\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape81AF6F81\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape4FFC4D03\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape7A6F35AF\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape24B8E4D7\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeED3DFE2D\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeC086A662\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeCEA34E7D\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape2315D1FE\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape0D32BD52\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape8C0A1C40\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape91B3532A\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeFED82CF9\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape0E3090AF\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape98C5F524\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape81AF6F81\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape4FFC4D03\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape7A6F35AF\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape24B8E4D7\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeED3DFE2D\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeC086A662\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeCEA34E7D\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape2315D1FE\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape0D32BD52\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeDDFADD4C\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape8961BE8B\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeB0A4B9B9\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape07CBB94B\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape745C9340\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape2CF45AD0\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeDF06F2EE\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeACE8A654\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeE9E43117\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeB40C4885\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape6F7ACEA1\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape884977F7\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeCC02CC3B\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeB3B3CE7F\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeA2DAEB65\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeA3A2977D\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeB512388F\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeB6A059DD\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape495CD94F\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape5AEC4C69\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape20ED9D8A\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape8606F07F\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeFBFA2485\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape5475AC5E\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shape494DCB71\features
+
+Generated File : C:\Users\User\Desktop\PROJEKTI\120W_DC_SUPPLY\120W_PSU_LM25148\LM25148\Project Outputs for LM25148\odb\symbols\shapeE665A82B\features
+

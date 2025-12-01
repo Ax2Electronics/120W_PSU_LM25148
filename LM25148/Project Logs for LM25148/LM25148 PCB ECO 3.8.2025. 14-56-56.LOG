@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=CN1-3
+Removed Pin From Net: NetName=GND Pin=CN1-4
+Added Pin To Net: NetName=GND Pin=CN1-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-3
+Added Pin To Net: NetName=NetCN1_3 Pin=CN1-4
+Added Pin To Net: NetName=NetCN1_3 Pin=Q_RP-D
+Added Pin To Net: NetName=NetCN1_3 Pin=Q_RP-D
+Added Pin To Net: NetName=NetCN1_3 Pin=Q_RP-D
+Added Pin To Net: NetName=NetCN1_3 Pin=Q_RP-D
+Added Net: Name=NetCN1_3
+Change Rule Scope 1 : Old Scope=InNet('NetCN1_1') New Scope=InNet('NetCN1_3')

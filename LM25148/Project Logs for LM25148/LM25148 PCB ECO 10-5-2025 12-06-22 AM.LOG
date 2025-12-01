@@ -1,0 +1,101 @@
+Added Component: Designator=Q1(PG-TDSON-8-33)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/infineon-technologies/IAUCN04S7L028ATMA1/22157720?s=N4IgTCBcDaIJIEECqBhAcgBgCwGUDsAMhmABwgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Infineon-Technologies/IAUCN04S7L028ATMA1?qs=mELouGlnn3deeHozE86VbA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Footprint Drawing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-33/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "448-IAUCN04S7L028ATMA1CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "IAUCN04S7L028ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IAUCN04S7L028ATM"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(PG-TDSON-8-33)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/infineon-technologies/IAUCN04S7L028ATMA1/22157720?s=N4IgTCBcDaIJIEECqBhAcgBgCwGUDsAMhmABwgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Infineon-Technologies/IAUCN04S7L028ATMA1?qs=mELouGlnn3deeHozE86VbA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Footprint Drawing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-33/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "448-IAUCN04S7L028ATMA1CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "IAUCN04S7L028ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IAUCN04S7L028ATM"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(PG-TDSON-8-33)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/infineon-technologies/IAUCN04S7L028ATMA1/22157720?s=N4IgTCBcDaIJIEECqBhAcgBgCwGUDsAMhmABwgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Infineon-Technologies/IAUCN04S7L028ATMA1?qs=mELouGlnn3deeHozE86VbA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Footprint Drawing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-33/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "448-IAUCN04S7L028ATMA1CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "IAUCN04S7L028ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IAUCN04S7L028ATM"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(PG-TDSON-8-33)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/infineon-technologies/IAUCN04S7L028ATMA1/22157720?s=N4IgTCBcDaIJIEECqBhAcgBgCwGUDsAMhmABwgC6AvkA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://eu.mouser.com/ProductDetail/Infineon-Technologies/IAUCN04S7L028ATMA1?qs=mELouGlnn3deeHozE86VbA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Footprint Drawing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.infineon.com/cms/en/product/packages/PG-TDSON/PG-TDSON-8-33/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "448-IAUCN04S7L028ATMA1CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "IAUCN04S7L028ATMA1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "726-IAUCN04S7L028ATM"; VariantName = "[No Variations]"
+Added Component: Designator=R4(SENSE_RES_2512)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/bourns-inc/CRF2512-FZ-R005ELF/6210986"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "CRF2512-FZ-R005ELFCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CRF2512-FZ-R005ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "5mOhm"; VariantName = "[No Variations]"
+Added Component: Designator=TVS1(DO-214AA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/littelfuse-inc/TPSMB33CA/4835275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "F6323CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "TPSMB33CA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=Q1-D
+Added Pin To Net: NetName=VIN Pin=Q1-D
+Added Pin To Net: NetName=VIN Pin=Q1-D
+Added Pin To Net: NetName=VIN Pin=Q1-D
+Added Pin To Net: NetName=VIN Pin=Q1-D
+Added Pin To Net: NetName=HO Pin=Q1-G
+Added Pin To Net: NetName=SW_NODE Pin=Q1-S
+Added Pin To Net: NetName=SW_NODE Pin=Q1-S
+Added Pin To Net: NetName=SW_NODE Pin=Q1-S
+Added Pin To Net: NetName=SW_NODE Pin=Q1-S
+Added Pin To Net: NetName=VIN Pin=Q2-D
+Added Pin To Net: NetName=VIN Pin=Q2-D
+Added Pin To Net: NetName=VIN Pin=Q2-D
+Added Pin To Net: NetName=VIN Pin=Q2-D
+Added Pin To Net: NetName=VIN Pin=Q2-D
+Added Pin To Net: NetName=HO Pin=Q2-G
+Added Pin To Net: NetName=SW_NODE Pin=Q2-S
+Added Pin To Net: NetName=SW_NODE Pin=Q2-S
+Added Pin To Net: NetName=SW_NODE Pin=Q2-S
+Added Pin To Net: NetName=SW_NODE Pin=Q2-S
+Added Pin To Net: NetName=SW_NODE Pin=Q3-D
+Added Pin To Net: NetName=SW_NODE Pin=Q3-D
+Added Pin To Net: NetName=SW_NODE Pin=Q3-D
+Added Pin To Net: NetName=SW_NODE Pin=Q3-D
+Added Pin To Net: NetName=SW_NODE Pin=Q3-D
+Added Pin To Net: NetName=LO Pin=Q3-G
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=SW_NODE Pin=Q4-D
+Added Pin To Net: NetName=SW_NODE Pin=Q4-D
+Added Pin To Net: NetName=SW_NODE Pin=Q4-D
+Added Pin To Net: NetName=SW_NODE Pin=Q4-D
+Added Pin To Net: NetName=SW_NODE Pin=Q4-D
+Added Pin To Net: NetName=LO Pin=Q4-G
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=R_SENSE_P Pin=R4-1
+Added Pin To Net: NetName=R_SENSE_N Pin=R4-2
+Added Pin To Net: NetName=NetCN1_3 Pin=TVS1-1
+Added Pin To Net: NetName=GND Pin=TVS1-2
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component Q1 IAUCN04S7L028ATMA1
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component Q2 IAUCN04S7L028ATMA1
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component Q3 IAUCN04S7L028ATMA1
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component Q4 IAUCN04S7L028ATMA1
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component R4 5mOhm
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component TVS1 TPSMB33CA

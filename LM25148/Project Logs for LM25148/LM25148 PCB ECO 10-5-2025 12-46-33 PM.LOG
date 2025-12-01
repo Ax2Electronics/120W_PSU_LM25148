@@ -1,0 +1,18 @@
+Added Component: Designator=C23(CAPAE109103X103M)
+Add component (AddParameter): Name = "capacitance"; Value = "330uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/chemi-con/EMZR500ARA331MJA0G/5824768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "565-EMZR500ARA331MJA0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "EMZR500ARA331MJA0G"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAPAE109103X103M)
+Add component (AddParameter): Name = "capacitance"; Value = "330uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/chemi-con/EMZR500ARA331MJA0G/5824768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "565-EMZR500ARA331MJA0GCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "EMZR500ARA331MJA0G"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=R_SENSE_N Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=R_SENSE_N Pin=C24-2
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component C23 330uF
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component C24 330uF

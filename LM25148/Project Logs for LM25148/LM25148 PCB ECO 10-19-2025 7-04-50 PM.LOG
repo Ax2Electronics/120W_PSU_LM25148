@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=HO Pin=Q1-G
+Removed Pin From Net: NetName=HO Pin=Q2-G
+Removed Pin From Net: NetName=LO Pin=Q3-G
+Removed Pin From Net: NetName=LO Pin=Q4-G
+Added Component: Designator=CSN(CAP_0805)
+Add component (AddParameter): Name = "capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R0BB102/2833637"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "311-1472-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "CC0805KRX7R0BB102"; VariantName = "[No Variations]"
+Added Component: Designator=RQ1(RES_0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2GE0R00X/146727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "P0.0JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "ERJ-2GE0R00X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "0 Ohm Jump"; VariantName = "[No Variations]"
+Added Component: Designator=RQ2(RES_0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2GE0R00X/146727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "P0.0JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "ERJ-2GE0R00X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "0 Ohm Jump"; VariantName = "[No Variations]"
+Added Component: Designator=RQ3(RES_0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2GE0R00X/146727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "P0.0JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "ERJ-2GE0R00X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "0 Ohm Jump"; VariantName = "[No Variations]"
+Added Component: Designator=RQ4(RES_0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2GE0R00X/146727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "P0.0JCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "ERJ-2GE0R00X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "0 Ohm Jump"; VariantName = "[No Variations]"
+Added Component: Designator=RSN(RES_0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/en/products/detail/yageo/RC0805FR-073RL/727799"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "311-3.00CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Product Number"; Value = "RC0805FR-073RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "resistance"; Value = "3 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CSN-1
+Added Pin To Net: NetName=HO Pin=RQ1-1
+Added Pin To Net: NetName=HO Pin=RQ2-1
+Added Pin To Net: NetName=LO Pin=RQ3-1
+Added Pin To Net: NetName=LO Pin=RQ4-1
+Added Pin To Net: NetName=SW_NODE Pin=RSN-2
+Added Pin To Net: NetName=NetCSN_2 Pin=CSN-2
+Added Pin To Net: NetName=NetCSN_2 Pin=RSN-1
+Added Net: Name=NetCSN_2
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=NetQ1_G Pin=RQ1-2
+Added Net: Name=NetQ1_G
+Added Pin To Net: NetName=NetQ2_G Pin=Q2-G
+Added Pin To Net: NetName=NetQ2_G Pin=RQ2-2
+Added Net: Name=NetQ2_G
+Added Pin To Net: NetName=NetQ3_G Pin=Q3-G
+Added Pin To Net: NetName=NetQ3_G Pin=RQ3-2
+Added Net: Name=NetQ3_G
+Added Pin To Net: NetName=NetQ4_G Pin=Q4-G
+Added Pin To Net: NetName=NetQ4_G Pin=RQ4-2
+Added Net: Name=NetQ4_G
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component CSN 1nF
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component RQ1 0 Ohm Jump
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component RQ2 0 Ohm Jump
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component RQ3 0 Ohm Jump
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component RQ4 0 Ohm Jump
+Added Member To Class: ClassName=LM25148_eval_BRD Member=Component RSN 3 Ohm

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<EMCRuleCheckerSettings>
+
+  <TagLibrary>
+    <Tag label="Decoupling Capacitors" name="FEFF004400650063006F00750070006C0069006E006700200043006100700061006300690074006F00720073">
+      <TagType name="ComponentCategory"/>
+      <TagConfig/>
+    </Tag>
+    <Tag label="Ground Nets" name="FEFF00470072006F0075006E00640020004E006500740073">
+      <TagType name="NetCategory"/>
+      <TagConfig/>
+    </Tag>
+    <Tag label="ICs" name="FEFF004900430073">
+      <TagType name="ComponentCategory"/>
+      <TagConfig/>
+    </Tag>
+    <Tag label="Stitching Capacitors" name="FEFF0053007400690074006300680069006E006700200043006100700061006300690074006F00720073">
+      <TagType name="ComponentCategory"/>
+      <TagConfig/>
+    </Tag>
+  </TagLibrary>
+
+  <NetTags>
+    <Net isBus="0" isClock="0" isCritical="0" name="VIN" type="Ground"/>
+    <Net isBus="0" isClock="0" isCritical="0" name="NetCN1_3" type="Ground"/>
+    <Net isBus="0" isClock="0" isCritical="0" name="NetC9_2" type="Ground"/>
+    <Net isBus="0" isClock="0" isCritical="0" name="GND" type="Ground"/>
+    <Net isBus="0" isClock="0" isCritical="0" name="NetC1_2" type="Ground"/>
+    <Net isBus="0" isClock="0" isCritical="0" name="R_SENSE_N" type="Ground"/>
+    <Net isBus="0" isClock="0" isCritical="0" name="R_SENSE_P" type="Ground"/>
+    <Net isBus="0" isClock="0" isCritical="0" name="SW_NODE" type="Ground"/>
+  </NetTags>
+
+  <ComponentTags>
+    <Comp CompName="C18" CompValue="1nF" DeviceName="100nf" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.009544" yLoc="0.00381"/>
+    <Comp CompName="C12" CompValue="1nF" DeviceName="0.1uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.022352" yLoc="0.013246"/>
+    <Comp CompName="C22" CompValue="22uF" DeviceName="22uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.01086" yLoc="0.000254"/>
+    <Comp CompName="C26" CompValue="22uF" DeviceName="22uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.006542" yLoc="0.00889"/>
+    <Comp CompName="C28" CompValue="22uF" DeviceName="22uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.006988" yLoc="0.012446"/>
+    <Comp CompName="C15" CompValue="1nF" DeviceName="0.1uF" capType="Decoupling" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.024003" yLoc="0.004591"/>
+    <Comp CompName="C27" CompValue="22uF" DeviceName="22uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.006988" yLoc="0.010668"/>
+    <Comp CompName="C29" CompValue="1nF" DeviceName="100nf" capType="Decoupling" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.027305" yLoc="0.009671"/>
+    <Comp CompName="C14" CompValue="10uF" DeviceName="10uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.03302" yLoc="0.010594"/>
+    <Comp CompName="C25" CompValue="22uF" DeviceName="22uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.0107965" yLoc="0.0125095"/>
+    <Comp CompName="C3" CompValue="10uF" DeviceName="10uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.01778" yLoc="0.011938"/>
+    <Comp CompName="C19" CompValue="22uF" DeviceName="22uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.0070515" yLoc="0.0019685"/>
+    <Comp CompName="C11" CompValue="1nF" DeviceName="0.1uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.025527" yLoc="0.007785"/>
+    <Comp CompName="C16" CompValue="10uF" DeviceName="10uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.0264795" yLoc="0.0136155"/>
+    <Comp CompName="C21" CompValue="22uF" DeviceName="22uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.00705" yLoc="0.000254"/>
+    <Comp CompName="C13" CompValue="1nF" DeviceName="0.1uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.02159" yLoc="0.013246"/>
+    <Comp CompName="C10" CompValue="2.2uF" DeviceName="2.2uF" capType="Decoupling" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.026543" yLoc="0.009671"/>
+    <Comp CompName="C23" CompValue="22uF" DeviceName="22uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.01086" yLoc="0.002032"/>
+    <Comp CompName="C1" CompValue="0.22mF" DeviceName="220uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.035687" yLoc="0.005807"/>
+    <Comp CompName="C20" CompValue="22uF" DeviceName="22uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.006542" yLoc="0.00381"/>
+    <Comp CompName="C24" CompValue="22uF" DeviceName="22uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.0107965" yLoc="0.0107315"/>
+    <Comp CompName="C17" CompValue="1nF" DeviceName="100nf" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.009544" yLoc="0.00889"/>
+    <Comp CompName="C2" CompValue="10uF" DeviceName="10uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.01778" yLoc="0.010668"/>
+    <Comp CompName="CN2_1" CompValue="1nF" DeviceName="TERM_BLK_PCB_LEVER_3.5MM_2POS" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.0021136" yLoc="0.0057925"/>
+    <Comp CompName="C30" CompValue="1nF" DeviceName="1.8nF" capType="Decoupling" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.029845" yLoc="0.0097345"/>
+    <Comp CompName="C31" CompValue="1nF" DeviceName="6pF" capType="Decoupling" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.028434" yLoc="0.004572"/>
+    <Comp CompName="C32" CompValue="1nF" DeviceName="100nf" capType="Decoupling" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.026162" yLoc="0.004102"/>
+    <Comp CompName="C34" CompValue="10uF" DeviceName="10uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.0278765" yLoc="0.0136155"/>
+    <Comp CompName="C5" CompValue="10uF" DeviceName="10uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.0250825" yLoc="0.0136155"/>
+    <Comp CompName="C7" CompValue="1nF" DeviceName="0.1uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.019558" yLoc="0.013246"/>
+    <Comp CompName="C6" CompValue="1nF" DeviceName="0.1uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.018796" yLoc="0.013246"/>
+    <Comp CompName="CN1_0" CompValue="1nF" DeviceName="TERM_BLK_PCB_LEVER_3.5MM_2POS" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.04697" yLoc="0.0057925"/>
+    <Comp CompName="CN1_1" CompValue="1nF" DeviceName="TERM_BLK_PCB_LEVER_3.5MM_2POS" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.04697" yLoc="0.0075425"/>
+    <Comp CompName="C36" CompValue="10uF" DeviceName="10uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.030607" yLoc="0.0136155"/>
+    <Comp CompName="C35" CompValue="10uF" DeviceName="10uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.0292735" yLoc="0.0136155"/>
+    <Comp CompName="C4" CompValue="10uF" DeviceName="10uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.0236855" yLoc="0.0136155"/>
+    <Comp CompName="CN2_0" CompValue="1nF" DeviceName="TERM_BLK_PCB_LEVER_3.5MM_2POS" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.0021136" yLoc="0.0075425"/>
+    <Comp CompName="IC1" CompValue="0" DeviceName="LM25148RGYR_42-V_SYNCHRONOUS_BUCK_DC/DC_CONT" isClockDriver="0" isHighSpeed="0" isIC="1" isOscillator="0" xLoc="0.0552649" yLoc="0.0177489"/>
+    <Comp CompName="C33" CompValue="2.2uF" DeviceName="2.2uF" capType="Decoupling" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.026924" yLoc="0.004102"/>
+    <Comp CompName="C8" CompValue="1nF" DeviceName="0.1uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.02032" yLoc="0.013246"/>
+    <Comp CompName="C9" CompValue="10uF" DeviceName="10uF" capType="Stitching" isClockDriver="0" isHighSpeed="0" isIC="0" isOscillator="0" xLoc="0.040386" yLoc="0.010631"/>
+  </ComponentTags>
+
+</EMCRuleCheckerSettings>

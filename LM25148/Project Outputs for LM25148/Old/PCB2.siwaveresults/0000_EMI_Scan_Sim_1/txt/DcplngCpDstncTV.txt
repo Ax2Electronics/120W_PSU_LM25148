@@ -1,0 +1,35 @@
+****************************************************************************
+
+  
+
+  File Created On : Mon Aug 11 19:51:16 2025
+
+  File Created By : Ansys EMI Scanner 2023 R1
+
+****************************************************************************
+___DECOUPLING CAPACITOR DISTANCE TO VIA___
+** INTRODUCTION **
+
+The trace between the power (or ground) pin of a decoupling capacitor 
+and the via to the power (or ground) plane must be no longer than 
+1.27 mm. 
+
+
+__Settings Set in the Profile:__
+Individual HTML Output Files  YES    
+Units  mm     
+Maximum Distance Between Capacitor and Via  1.27   
+Sort by Column  DISTANCE  
+Weighting Factor  0.9    
+Maximum Search Distance for Via  3.81   
+Verify Via Connected to Appropriate Plane  YES    
+
+** RESULTS: **
+INDEX  CAPACITOR  CAP PIN  ASSOC VIA  NET    DISTANCE  MESSAGES  RANK   
+0      C15(D)    C15.1  ( 48.006, 9.182 )           SW_NODE ( G )    UNDEF   No Via Within Limit   0.90   
+
+
+__Number of Violations:	1__
+
+__Number Analyzed:	64__
+================================================================================
